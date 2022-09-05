@@ -77,7 +77,7 @@ public class Main {
 
     public static void task5() {
         Scanner answer = new Scanner(System.in);
-        System.out.println("Укажите номер меяца:");
+        System.out.println("Укажите номер меcяца:");
         int monthNumber = answer.nextInt();
 
         switch (monthNumber) {
